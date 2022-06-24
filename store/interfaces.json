@@ -1,0 +1,6 @@
+{
+  "banner-only-product-plp": {
+    "component": "BannerOnlyProductPlp",
+    "render": "client"
+  }
+}
